@@ -1,4 +1,4 @@
-### Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)
+# Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)
 
 Приложение демонстрирует шаблоны корпоративного уровня, включая аутентификацию на основе JWT, сохранение данных в MongoDB, автоматическое развертывание и комплексные меры безопасности.
 
